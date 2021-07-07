@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saravanaraghu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python based proh=jects
+- 💞️ I’m looking to collaborate on python based projects
 - 📫 How to reach me saravanaraghu7@gmail.com
 
 <!---
